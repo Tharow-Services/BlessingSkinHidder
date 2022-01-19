@@ -1,11 +1,11 @@
 {
-  "name": "hide-advanced-menu",
-  "title": "Blessing\\HideAdvancedMenu::general.title",
+  "name": "hide-utils-tharserv",
+  "title": "TharowServices\\HideUtils::general.title",
   "version": "1.0.1",
-  "description": "Blessing\\HideAdvancedMenu::general.description",
-  "author": "GPlane",
-  "url": "https://gplane.win/",
-  "namespace": "Blessing\\HideAdvancedMenu",
+  "description": "TharowServices\\HideUtils::general.description",
+  "author": "TharowT",
+  "url": "https://tharow.net/",
+  "namespace": "TharowServices\\HideUtils",
   "require": {
     "blessing-skin-server": "^5|^6"
   },
